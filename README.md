@@ -15,7 +15,7 @@ para executar o program, abra seu Visual Studio Code e na CLI digite:
  ~> go run main.go   c:\compartilhados  1200
  
  
-4) Vá no seu browser e digite localhost:1200, um pop-up deverá abrir solicitando o usuário que você colocou no passo 1) e a senha que você criou no site https://unix4lyfe.org/crypt/ e colou o código gerado no campo pastSecret, passo 2).
+4) Vá no seu browser e digite localhost:1200, um pop-up deverá abrir solicitando o usuário que você colocou no passo 1) e a senha que você criou no site  https://unix4lyfe.org/crypt/ e colou o código gerado no campo pastSecret, passo 2).
 
 ![image](https://user-images.githubusercontent.com/129122229/228090408-6755b1b3-56c9-4e81-92e0-ed1594574a0e.png)
 
