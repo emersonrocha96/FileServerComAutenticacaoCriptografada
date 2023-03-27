@@ -70,7 +70,7 @@ func main() {
 	         go run main.go   c:\compartilhados    1200
 
                        ^              ^              ^
-				  Argumento 1	Argumento 2	   Argumento 3	
+		 Argumento 1	Argumento 2	   Argumento 3	
 				  
 				Esses são os 3 argumentos considerados no bloco IF para saber se o programa está sendo
 			  executado da maneira correta. 
