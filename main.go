@@ -14,9 +14,10 @@ import (
 func Secret (user, realm string) string {
 	    
 	    // Nome do usuário
-		if user == "emerson" { 
-		// Senha welcome1, mas criptografada para o programa
-		return "$1$Z8sRtegl$y3vr5vitCFu566C1od0Fu0"
+		if user == "userName" { 
+			
+		// Senha criptografada para o programa
+		return "pastSecret"
 
 		/* A senha foi criada no site https://unix4lyfe.org/crypt/
 		usando a opção de MD5 */
@@ -66,7 +67,7 @@ func main() {
 
 	A forma padrão de executar essa aplicação no cli é assim:
 
-	         go run main.go   c:\compartilhados    9000
+	         go run main.go   c:\compartilhados    1200
 
                        ^              ^              ^
 				  Argumento 1	Argumento 2	   Argumento 3	
