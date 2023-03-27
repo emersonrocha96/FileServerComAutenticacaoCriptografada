@@ -4,8 +4,7 @@ Servidor de arquivos com acesso limitado a usuários previamente cadastrados e c
 
 
 1) O usuário que desejar modificar para acesso, se faz nessesário alterar onde está identificado como "USERNAME"
-2) Para cria a senha criptografada, basta acessar o site https://unix4lyfe.org/crypt/ e copiar o codigo gerado no campo MD5 e colar esse código 
-no campo return onde está identificado como pastSecret.
+2) Para cria a senha criptografada, basta acessar o site https://unix4lyfe.org/crypt/ escrever uma senha nos campos em vermelho e copiar o código o codigo gerado no campo MD5 que está em verde na imagem abaixo, agora você pode colar esse código no campo return onde está identificado como pastSecret.
 
 ![image](https://user-images.githubusercontent.com/129122229/228089794-53f98c49-551a-44e7-ad1b-aad6c7dbfcd4.png)
 
